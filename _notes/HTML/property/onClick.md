@@ -1,1 +1,0 @@
-- 바닐라 [[HTML]]에서는 onclick [[키워드(Keyword)]]로 사용한다.
