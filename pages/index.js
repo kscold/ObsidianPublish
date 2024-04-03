@@ -10,6 +10,7 @@ import {
 import FolderTree from "../components/FolderTree"
 import dynamic from "next/dynamic"
 import MDContent from "../components/MDContent"
+import { useState } from "react"
 
 // This trick is to dynamically load component that interact with window object (browser only)
 const DynamicGraph = dynamic(() => import("../components/Graph"), {
